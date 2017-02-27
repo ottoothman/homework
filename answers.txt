@@ -1,0 +1,3 @@
+mkdir -p coconut/lime/fresh
+touch coconut/lime/fresh/hello_world.txt 
+mv coconut/lime/fresh/hello_world.txt ./
